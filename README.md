@@ -1,3 +1,1 @@
-# covoiturage backend
-Le back-end d'une application de co-voiturage
-realiser avec spring-boot
+Ce projet à été  réalisé dans le module d'architecture logiciel. L’objectif était de se familiariser avec le fonctionnement de framework tel que le spring boot.
